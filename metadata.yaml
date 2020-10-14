@@ -1,0 +1,43 @@
+_repo: Studies-on-Fermentation-The-diseases-of-beer-their-causes-and-the-means-of-preventing-them_63355
+_version: 0.0.1
+alternative_title: Études sur la bière. English
+contributor:
+  translators:
+  - agent_name: Faulkner, Frank
+    gutenberg_agent_id: '52395'
+    url: http://www.gutenberg.org/2009/agents/52395
+  - agent_name: Robb, D. Constable (David Constable)
+    alias: Robb, David Constable
+    gutenberg_agent_id: '52396'
+    url: http://www.gutenberg.org/2009/agents/52396
+creator:
+  author:
+    agent_name: Pasteur, Louis
+    aliases:
+    - Pasteur, L. (Louis)
+    - Pasteur, M. (Louis)
+    birthdate: 1822
+    deathdate: 1895
+    gutenberg_agent_id: '52394'
+    url: http://www.gutenberg.org/2009/agents/52394
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Louis_Pasteur
+    - https://fr.wikipedia.org/wiki/Louis_Pasteur
+description: ''
+gutenberg_issued: '2020-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63355'
+  lccn: 04021883
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fermentation'
+- !lcc 'QR'
+- !lcsh 'Beer'
+- GITenberg
+title: "Studies on Fermentation\r\nThe diseases of beer, their causes, and the means\
+  \ of preventing them"
+url: http://www.gutenberg.org/ebooks/63355
